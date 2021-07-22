@@ -1,16 +1,19 @@
-### Hi there 👋
+### Welcome!
 
-<!--
-**PiggyAwesome/PiggyAwesome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Young Programmer (Mostly Python and Node.js)
 
-Here are some ideas to get you started:
+🎸 Bass- and guitarist 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎮 Gamer 
+
+🕶  Professional Rickroller 
+
+> Website: http://piggyawesome.com
+>
+> Pig Services Website: http://pigservices.piggyawesome.com
+>
+> Website Navigation: http://piggyawesome.com/navigation.html
+>
+> Socials: https://linktr.ee/PiggyAwesome
+>
+> Discord bot:  https://discord.com/oauth2/authorize?client_id=830360785813241857&scope=bot&permissions=8589934591
