@@ -8,13 +8,13 @@
 
 🕶  Professional Rickroller 
 
-> Website: http://piggyawesome.com
+>> [Website](http://piggyawesome.com)
+>>
+>> [Website Navigation](http://piggyawesome.com/navigation.html)
 >
-> Pig Services Website: http://pigservices.piggyawesome.com
+> [Pig Services Website](http://pigservices.piggyawesome.com)
 >
-> Website Navigation: http://piggyawesome.com/navigation.html
+> [Socials](https://linktr.ee/PiggyAwesome)
 >
-> Socials: https://linktr.ee/PiggyAwesome
->
-> Discord bot:  https://discord.com/oauth2/authorize?client_id=830360785813241857&scope=bot&permissions=8589934591
+> [Discord bot](https://discord.com/oauth2/authorize?client_id=830360785813241857&scope=bot&permissions=858993459)
 
