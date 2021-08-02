@@ -18,3 +18,6 @@
 >
 > [Discord bot](https://discord.com/oauth2/authorize?client_id=830360785813241857&scope=bot&permissions=858993459)
 
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PiggyAwesome&layout=compact)
