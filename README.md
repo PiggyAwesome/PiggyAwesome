@@ -23,5 +23,4 @@
 ![Piggy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PiggyAwesome)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PiggyAwesome&layout=compact)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PiggyAwesome&label=Profile%20views&color=0e75b6&style=flat" alt="PiggyAwesome" /> </p>
-<img src="https://komarev.com/ghpvc/?username=PiggyAwesome&label=Profile%20views&color=0e75b6&style=flat"
-<p align="left"><img src="https://media.tenor.com/images/52c80bffe2f2675700e4397d25071ae3/tenor.gif" width="250" height="130"/></p>
+<p align="right"><img src="https://media.tenor.com/images/52c80bffe2f2675700e4397d25071ae3/tenor.gif" width="250" height="130"/></p>
