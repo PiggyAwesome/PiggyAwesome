@@ -19,5 +19,6 @@
 > [Discord bot](https://discord.com/oauth2/authorize?client_id=830360785813241857&scope=bot&permissions=858993459)
 
 
-
+![Piggy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PiggyAwesome)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PiggyAwesome&layout=compact)
+https://komarev.com/ghpvc/?username=PiggyAwesome&label=Profile%20views&color=0e75b6&style=flat
