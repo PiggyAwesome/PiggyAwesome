@@ -1,4 +1,4 @@
-<h3 align="left"> Heya! Thanks for visiting my profile! If you want to find out a bit more about me, you can look below!/> </h3>
+<h3 align="left"> Heya! Thanks for visiting my profile! If you want to find out a bit more about me, you can look below! </h3>
 
 
 💻 Young Programmer (Mostly Python and Node.js)
