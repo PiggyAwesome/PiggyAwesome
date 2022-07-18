@@ -36,6 +36,7 @@ selenium<br>
 pysimplegui<br>
 pygame<br>
 telethon<br>
+playwright<br>
 discord.js<br>
 chalk<br>
 ...<br>
