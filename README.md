@@ -34,6 +34,7 @@ httpx<br>
 flask<br>
 selenium<br>
 pysimplegui<br>
+pyautogui<br>
 pygame<br>
 telethon<br>
 playwright<br>
@@ -49,11 +50,11 @@ chalk<br>
 ![Metrics](https://metrics.lecoq.io/PiggyAwesome?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PiggyAwesome&layout=compact)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PiggyAwesome&label=Profile%20views&color=0e75b6&style=flat" alt="PiggyAwesome" /> <a href="https://discord.gg/BJv2TDVEQH"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a> <a href="https://twitter.com/piggyawesome1" ><img src="https://img.shields.io/twitter/follow/PiggyAwesome1.svg?style=social" /> </a
   </p> <p align="right"><img src="https://media.tenor.com/images/52c80bffe2f2675700e4397d25071ae3/tenor.gif" width="2.5" height="1.3"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piggyawesome&" alt="piggyawesome" /></p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PiggyAwesome&label=Profile%20views&color=0e75b6&style=flat" alt="PiggyAwesome" /> <a href="https://discord.gg/BJv2TDVEQH"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a> <a href="https://twitter.com/piggyawesome1" ><img src="https://img.shields.io/twitter/follow/PiggyAwesome1.svg?style=social" /> </a
+<br>
   <h3> Here is a funny joke for you! </h3>
   
   ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
