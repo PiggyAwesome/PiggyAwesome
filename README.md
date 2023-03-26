@@ -29,6 +29,7 @@
 
 <h3 align="left">Libraries i'm familliar with:</h3>
 discord.py<br>
+discum<br>
 requests<br>
 httpx<br>
 flask<br>
