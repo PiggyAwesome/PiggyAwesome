@@ -54,6 +54,15 @@ chalk<br>
   </p> <p align="right"><img src="https://media.tenor.com/images/52c80bffe2f2675700e4397d25071ae3/tenor.gif" width="2.5" height="1.3"/></p>
 
 <!--START_SECTION:waka-->
+
+```txt
+Python       16 hrs 39 mins  ████████████████████▓░░░░   82.77 %
+HTML         1 hr 46 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
+JavaScript   48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+JSON         41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+Text         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+```
+
 <!--END_SECTION:waka-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piggyawesome&" alt="piggyawesome" /></p>
