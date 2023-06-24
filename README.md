@@ -51,7 +51,8 @@ chalk<br>
 <!-- ![Metrics](https://metrics.lecoq.io/PiggyAwesome?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PiggyAwesome&layout=compact)
-  </p> <p align="right"><img src="https://media.tenor.com/images/52c80bffe2f2675700e4397d25071ae3/tenor.gif" width="2.5" height="1.3"/></p>
+
+<p align="right"><img src="https://media.tenor.com/images/52c80bffe2f2675700e4397d25071ae3/tenor.gif" width="2.5" height="1.3"/></p>
 
 <!--START_SECTION:waka-->
 
