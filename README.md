@@ -73,8 +73,9 @@ Rust         54 mins         ▒░░░░░░░░░░░░░░░░
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piggyawesome&" alt="piggyawesome" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PiggyAwesome&label=Profile%20views&color=0e75b6&style=flat" alt="PiggyAwesome" /> <a href="https://discord.gg/BJv2TDVEQH"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a> <a href="https://twitter.com/piggyawesome1" ><img src="https://img.shields.io/twitter/follow/PiggyAwesome1.svg?style=social" /> </a
 <br>
+<!-- Removed becaause no longer funny ):  
   <h3> Here is a funny joke for you! </h3>
-  
-  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default) 
+-->
 
   
