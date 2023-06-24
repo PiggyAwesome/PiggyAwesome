@@ -22,11 +22,10 @@ jobs:
           # Progress display bar type
           INPUT_BLOCKS: ●ඞ
           # Max Languages to display
-          LANG_COUNT: 6
+          LANG_COUNT: 7
           # Show total coding time
           SHOW_TOTAL: true
           # idk
           SHOW_TITLE: true
           # Show time coding in "other"
           SHOW_MASKED_TIME: true
-
