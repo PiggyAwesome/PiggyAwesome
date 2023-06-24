@@ -56,11 +56,16 @@ chalk<br>
 <!--START_SECTION:waka-->
 
 ```txt
+From: 02 August 2021 - To: 23 June 2023
+
+Total Time: 64 hrs 6 mins
+
 Python       54 hrs 19 mins  █████████████████████▒░░░   84.72 %
 JavaScript   2 hrs 31 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
 HTML         1 hr 53 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
 JSON         1 hr 22 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
 Bash         1 hr 3 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Rust         54 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
 ```
 
 <!--END_SECTION:waka-->
