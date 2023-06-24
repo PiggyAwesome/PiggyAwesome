@@ -20,7 +20,7 @@ jobs:
           # Time range of data to display
           TIME_RANGE: all_time
           # Progress display bar type
-          BLOCKS: ඞ
+          INPUT_BLOCKS: ●ඞ
           # Max Languages to display
           LANG_COUNT: 6
           # Show total coding time
