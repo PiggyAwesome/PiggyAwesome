@@ -77,7 +77,7 @@ From: 02 August 2021 - To: 23 June 2023
 Total Time: 63 hrs 10 mins
 
 Python       53 hrs 23 mins  █████████████████████░░░░   84.51 %
-JavaScript   2 hrs 31 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %    
+JavaScript   2 hrs 31 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
 HTML         1 hr 53 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
 JSON         1 hr 22 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
 Bash         1 hr 3 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
