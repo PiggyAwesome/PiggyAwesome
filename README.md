@@ -54,20 +54,6 @@ chalk<br>
   </p> <p align="right"><img src="https://media.tenor.com/images/52c80bffe2f2675700e4397d25071ae3/tenor.gif" width="2.5" height="1.3"/></p>
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 02 August 2021 - To: 23 June 2023
-
-Total Time: 63 hrs 10 mins
-
-Python       53 hrs 23 mins  █████████████████████░░░░   84.51 %
-JavaScript   2 hrs 31 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
-HTML         1 hr 53 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-JSON         1 hr 22 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
-Bash         1 hr 3 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-Rust         54 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
-```
-
 <!--END_SECTION:waka-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piggyawesome&" alt="piggyawesome" /></p>
