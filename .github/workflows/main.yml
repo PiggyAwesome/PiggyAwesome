@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # Runs every 2 hours
-    - cron: "0 */2 * * *"
+    - cron: "0 */1 * * *"
 
 jobs:
   update-readme:
@@ -15,5 +15,18 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          # Show time for each language
           SHOW_TIME: true
+          # Time range of data to display
           TIME_RANGE: all_time
+          # Progress display bar type
+          BLOCKS: ඞ
+          # Max Languages to display
+          LANG_COUNT: 6
+          # Show total coding time
+          SHOW_TOTAL: true
+          # idk
+          SHOW_TITLE: true
+          # Show time coding in "other"
+          SHOW_MASKED_TIME: true
+
