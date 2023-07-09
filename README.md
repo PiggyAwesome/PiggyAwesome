@@ -72,7 +72,7 @@ chalk<br>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 August 2021 - To: 08 July 2023
+From: 02 August 2021 - To: 09 July 2023
 
 Total Time: 104 hrs 50 mins
 
