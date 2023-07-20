@@ -72,17 +72,17 @@ chalk<br>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 June 2023 - To: 19 July 2023
+From: 20 June 2023 - To: 20 July 2023
 
-Total Time: 89 hrs 4 mins
+Total Time: 89 hrs 25 mins
 
-Python       66 hrs 4 mins   ██████████████████▓░░░░░░   74.19 %
-Rust         5 hrs 48 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
-HTML         4 hrs 55 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
-Svelte       3 hrs 41 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
-JSON         2 hrs 12 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-JavaScript   1 hr 46 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-Other        1 hr 14 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+Python       66 hrs 32 mins  ██████████████████▓░░░░░░   74.41 %
+Rust         5 hrs 48 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
+HTML         4 hrs 55 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
+Svelte       3 hrs 41 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
+JSON         2 hrs 11 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+JavaScript   1 hr 39 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+Other        1 hr 14 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
 ```
 
 <!--END_SECTION:waka-->
