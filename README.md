@@ -51,6 +51,8 @@ pyautogui<br>
 pygame<br>
 telethon<br>
 opencv<br>
+websockets<br>
+asyncio<br>
 playwright<br>
 discord.js<br>
 chalk<br>
