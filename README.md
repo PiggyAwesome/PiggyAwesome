@@ -74,17 +74,17 @@ chalk<br>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 September 2023 - To: 25 October 2023
+From: 26 September 2023 - To: 26 October 2023
 
-Total Time: 50 hrs 33 mins
+Total Time: 47 hrs 50 mins
 
-Python       44 hrs 6 mins   █████████████████████▓░░░   87.24 %
-JSON         2 hrs 24 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
-Rust         1 hr 48 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
-Text         42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
-Markdown     30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-HTML         15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-Git Config   11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Python       41 hrs 57 mins  ██████████████████████░░░   87.68 %
+JSON         2 hrs 16 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+Rust         1 hr 48 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+Text         35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+Markdown     23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+HTML         15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+GDScript3    9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
