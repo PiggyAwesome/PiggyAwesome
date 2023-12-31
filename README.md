@@ -75,17 +75,17 @@ websockets<br>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 November 2023 - To: 30 December 2023
+From: 01 December 2023 - To: 31 December 2023
 
-Total Time: 17 hrs 7 mins
+Total Time: 16 hrs 49 mins
 
-Python       13 hrs 42 mins  ████████████████████░░░░░   80.07 %
-HTML         1 hr 23 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
-Git Config   32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
-Rust         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-TOML         23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
-Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-Text         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Python       13 hrs 42 mins  ████████████████████▒░░░░   81.51 %
+HTML         1 hr 23 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
+Git Config   32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+TOML         23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+Text         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Markdown     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 ```
 
 <!--END_SECTION:waka-->
