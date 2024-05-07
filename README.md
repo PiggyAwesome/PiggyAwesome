@@ -75,14 +75,14 @@ websockets<br>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 April 2024 - To: 06 May 2024
+From: 07 April 2024 - To: 07 May 2024
 
-Total Time: 14 hrs 6 mins
+Total Time: 11 hrs 12 mins
 
-Python   10 hrs 28 mins  ██████████████████▓░░░░░░   74.24 %
-Text     2 hrs 59 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.15 %
-JSON     27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
-Go       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Python   7 hrs 37 mins   █████████████████░░░░░░░░   67.97 %
+Text     2 hrs 56 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.23 %
+JSON     27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
+Go       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
 Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
