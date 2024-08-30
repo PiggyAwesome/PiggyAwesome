@@ -75,17 +75,17 @@ websockets<br>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 July 2024 - To: 29 August 2024
+From: 31 July 2024 - To: 30 August 2024
 
-Total Time: 25 hrs 44 mins
+Total Time: 23 hrs 4 mins
 
-Python       21 hrs 17 mins  ████████████████████▓░░░░   82.69 %
-Markdown     1 hr 31 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
-Text         1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
-JSON         38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
-CSV          27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
-Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Python       18 hrs 40 mins  ████████████████████▒░░░░   80.96 %
+Markdown     1 hr 31 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+Text         1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+JSON         55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+CSV          29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
