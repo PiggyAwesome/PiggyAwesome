@@ -44,6 +44,7 @@ discord.py<br>
 discum<br>
 requests<br>
 httpx<br>
+tls_client<br>
 flask<br>
 selenium<br>
 pysimplegui<br>
@@ -53,6 +54,8 @@ telethon<br>
 opencv<br>
 websockets<br>
 asyncio<br>
+typing<br>
+bs4<br>
 playwright<br>
 discord.js<br>
 chalk<br>
