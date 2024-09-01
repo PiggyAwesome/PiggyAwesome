@@ -11,11 +11,9 @@
 >>
 >> [Website Navigation](http://piggyawesome.com/navigation.html)
 >
-> [Pig Services Website](http://pigservices.piggyawesome.com)
+> [Pig Services Website](http://pigservices.piggyawesome.com) (offline atm)
 >
 > [Socials](https://linktr.ee/PiggyAwesome)
->
-> [Discord bot](https://discord.com/oauth2/authorize?client_id=830360785813241857&scope=bot&permissions=858993459)
 
 <h3 align="left">Regularly used Languages and Tools:</h3>
 <p align="left"> 
