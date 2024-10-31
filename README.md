@@ -76,17 +76,17 @@ websockets<br>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2024 - To: 30 October 2024
+From: 01 October 2024 - To: 31 October 2024
 
-Total Time: 32 hrs 2 mins
+Total Time: 31 hrs 50 mins
 
-Python             26 hrs 58 mins  █████████████████████░░░░   84.20 %
-CSV                1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
-Text               57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
-Other              51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
-JavaScript         44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
-JSON               32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
-Markdown           16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Python       26 hrs 52 mins  █████████████████████░░░░   84.44 %
+CSV          1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+Text         57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+Other        51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+JavaScript   44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+JSON         34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+Markdown     16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 ```
 
 <!--END_SECTION:waka-->
