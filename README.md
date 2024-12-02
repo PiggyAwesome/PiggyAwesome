@@ -76,7 +76,7 @@ websockets<br>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 November 2024 - To: 01 December 2024
+From: 02 November 2024 - To: 02 December 2024
 
 Total Time: 14 hrs 20 mins
 
