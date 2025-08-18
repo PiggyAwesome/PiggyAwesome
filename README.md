@@ -76,14 +76,14 @@ websockets<br>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 July 2025 - To: 17 August 2025
+From: 19 July 2025 - To: 18 August 2025
 
-Total Time: 7 hrs 41 mins
+Total Time: 5 hrs 52 mins
 
-Python       7 hrs 8 mins    ███████████████████████▒░   92.75 %
-JSON         22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
-Text         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
-PowerShell   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python       5 hrs 21 mins   ███████████████████████░░   91.44 %
+JSON         22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
+Text         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+PowerShell   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
