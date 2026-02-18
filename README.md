@@ -80,8 +80,8 @@ From: 18 January 2026 - To: 17 February 2026
 
 Total Time: 24 mins
 
-iCalendar   12 mins         █████████████░░░░░░░░░░░░   51.92 %
-Python      11 mins         ████████████░░░░░░░░░░░░░   48.08 %
+iCalendar   12 mins               █████████████░░░░░░░░░░░░   51.92 %
+Python      11 mins               ████████████░░░░░░░░░░░░░   48.08 %
 ```
 
 <!--END_SECTION:waka-->
