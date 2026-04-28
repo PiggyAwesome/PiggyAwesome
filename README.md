@@ -76,17 +76,16 @@ websockets<br>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 March 2026 - To: 27 April 2026
+From: 29 March 2026 - To: 28 April 2026
 
-Total Time: 1 hr 30 mins
+Total Time: 1 hr 19 mins
 
-Text         42 mins               ███████████▓░░░░░░░░░░░░░   47.05 %
-Svelte       22 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.12 %
-JSON         12 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.79 %
-Python       10 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.04 %
-Other        1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-JavaScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-HTML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Text         42 mins               █████████████▒░░░░░░░░░░░   53.49 %
+Svelte       22 mins               ███████░░░░░░░░░░░░░░░░░░   28.56 %
+JSON         12 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.68 %
+Other        1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+JavaScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+HTML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
